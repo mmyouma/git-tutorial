@@ -1,2 +1,2 @@
 # git-tutorial
-git checkout して編集しました。
+git checkout -b して編集しました。
