@@ -1,2 +1,2 @@
 # git-tutorial
-練習用のものです。テスト
+git checkout して編集しました。
